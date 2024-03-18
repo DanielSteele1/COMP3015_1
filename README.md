@@ -1,16 +1,20 @@
 ----------------- README ----------------
+
 My OpenGL 30% Scene project was to create a crystal scene, where the camera is looking at the horizon of a planet made up of giant purple crystals. 
 The scene is static but comprises of a moving light, imitating a sun. 
 All textures and custom models can be found in the /media folder, including the skybox. All external resources used will be listed below. 
 
 
 To run, open up ProjectTemplate.sln attached via GitHub, and hit run. 
+
 ------------------- ENVIRONMENT USED -------------------------
+
 - Created in Visual Studio 2022 Version 17.8 
 - Developed in C++ 
 - Utilised OOP methodologies
 
 --------------------- EXTERNAL RESOURCES USED -----------------
+
 - LearnOpenGL - to help research the odd openGL logic
 
 - https://matheowis.github.io/HDRI-to-CubeMap/ - Online tool to convert a jpg image into 6 cube map images
@@ -19,7 +23,9 @@ To run, open up ProjectTemplate.sln attached via GitHub, and hit run.
 - https://www.textures.com/download/Cliffs0464/94319 - Rock Texture
 
 All models are made solely by myself, using Blender.
+
 ------------------- USEFUL LINKS -------------------------------
+
 
 Github: https://github.com/DanielSteele1/COMP3015_1
 YouTube demo vid: 
