@@ -4,7 +4,7 @@ My OpenGL 30% Scene project was to create a crystal scene, where the camera is l
 The scene is static but comprises of a moving light, imitating a sun. 
 All textures and custom models can be found in the /media folder, including the skybox. All external resources used will be listed below. 
 
-
+All external libraries are included in C:\users\Public\OpenGL.
 To run, open up ProjectTemplate.sln attached via GitHub, and hit run. 
 
 ------------------- ENVIRONMENT USED -------------------------
@@ -25,7 +25,6 @@ To run, open up ProjectTemplate.sln attached via GitHub, and hit run.
 All models are made solely by myself, using Blender.
 
 ------------------- USEFUL LINKS -------------------------------
-
 
 Github: https://github.com/DanielSteele1/COMP3015_1
 
